@@ -1,4 +1,4 @@
-# film-management-system--
+# Film-Management-System
 数据库实践项目-基于C#和sql server制作的简易电影管理系统--a simplified film management system implemented by C and SQL server# 
 
 本项目基于https://github.com/zhujainxipan/information-management-system-of-students
@@ -6,3 +6,5 @@
 
 在项目的实现中，把遇到的一些坑总结了一篇博文，移步 https://blog.csdn.net/weixin_43227712/article/details/104056945
 查看
+
+This is a film system based on C# and SQL server. It targets at system administrator, having authority of deletion, addition, revision, and searching, and users who can collect and search for films.
