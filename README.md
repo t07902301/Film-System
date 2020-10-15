@@ -8,3 +8,5 @@
 查看
 
 This is a film system based on C# and SQL server. It targets at system administrator, having authority of deletion, addition, revision, and searching, and users who can collect and search for films.
+
+Demo pictures and details of project is illustrated in the file "Functions and Database Design".
